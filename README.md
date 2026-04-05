@@ -85,6 +85,23 @@ I practice DSA daily to improve logic building, coding efficiency, and problem-s
       <img src="https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat" />
     </td>
   </tr>
+    <tr>
+    <td width="50%" valign="top">
+      <h3>🔢 Prime Checker</h3>
+      <p>A Python program that checks whether a given number is prime using trial division. Handles edge cases like negatives and even numbers.</p>
+      <a href="https://github.com/siddharth651/prime-checker">
+        <img src="https://img.shields.io/badge/View_Project-0077B5?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚀 More Coming Soon</h3>
+      <p>Currently working on new Python projects. Will be updated here soon.</p>
+      <br/>
+      <img src="https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat" />
+    </td>
+  </tr>
 </table>
 
 ---

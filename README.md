@@ -85,12 +85,6 @@ Python Developer focused on building small, practical projects while sharpening 
       <br/>
       <img src="https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat" />
     </td>
-       <td width="50%">
-      <h3>🚀 More Coming Soon</h3>
-      <p>Currently working on new Python projects. Will be updated here soon.</p>
-      <br/>
-      <img src="https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat" />
-    </td>
   </tr>
 </table>
 

@@ -8,6 +8,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Learning+Python+every+day+🐍;Building+projects+from+scratch+🔨;Solving+problems+one+at+a+time+🧠;Always+keep+coding+💻" alt="Typing SVG" />
 </p>
 
+<!-- Visitor counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=siddharth651&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS" />
+</p>
+
 ---
 
 ## 🙋 About Me
@@ -69,7 +74,7 @@ Python Developer focused on building small, practical projects while sharpening 
       <h3>🔢 Prime Checker</h3>
       <p>A Python program that checks whether a given number is prime using trial division. Handles edge cases like negatives and even numbers.</p>
       <a href="https://github.com/siddharth651/prime-checker">
-        <img src="https://img.shields.io/badge/View%20Project-58a6ff?style=for-the-badge&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/VIEW%20PROJECT-2ea44f?style=for-the-badge&logo=github&logoColor=white" />
       </a>
       <br/><br/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />

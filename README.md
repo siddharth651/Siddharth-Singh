@@ -1,23 +1,31 @@
 <h1 align="center">Hi 👋, I'm Siddharth</h1>
-<h3 align="center">Junior Engineer | Python | SQL </h3>
+<h3 align="center">Engineer Transitioning into Software | Python & MySQL </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=FFFF00&center=true&vCenter=true&random=false&width=900&height=70&lines=Python+%7C+SQL+%7C+System+Engineering;Fault+Analysis+%7C+Technical+Documentation;Building+Real+Projects+Every+Day+💻;Always+Keep+Learning+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=FFFF00&center=true&vCenter=true&random=false&width=900&height=70&lines=Engineer+Turning+Into+a+Developer;Learning+Python+%26+MySQL+Every+Day;Building+Projects+From+Scratch;One+Commit+At+A+Time+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 💫 About Me
 
-Engineer with hands-on experience in **Automatic Train Supervision (ATS)** for metro rail projects, covering system configuration, fault analysis, network planning, and technical documentation.
+I'm Siddharth — Currently working as a **Junior Engineer** in the metro rail industry, specializing in **ATS (Automatic Train Supervision)** systems.
 
-Currently building strong Python and SQL skills to grow into software development roles.
+While my current role gave me real-world engineering exposure — working on critical transit infrastructure — I've always been drawn to software. So I made a decision: **start from scratch, learn properly, and build my way into tech.**
+
+- 🚇 Currently working on metro ATS/CBTS systems as a Junior Engineer
+- 🐍 Self-learning Python to build real, working projects
+- 🗄️ MySQL to understand databases from the ground up
+- 🎯 Goal: Transition into a software role with better opportunities
+- 📍 Based in India
+
+> *"I didn't wait for the perfect opportunity. I started building one."*
 
 ---
 
 ## 🚀 Tech Stack
 
-### 🐍 Programming
+### 🐍 Language
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python" />
 </p>
@@ -31,8 +39,9 @@ Currently building strong Python and SQL skills to grow into software developmen
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-- SQL
 - MySQL
+- SQL Queries
+- Database Design (Basics)
 
 ---
 
@@ -42,7 +51,8 @@ Currently building strong Python and SQL skills to grow into software developmen
 </p>
 
 - VS Code
-- Git & GitHub
+- Git
+- GitHub
 
 ---
 
@@ -51,29 +61,16 @@ Currently building strong Python and SQL skills to grow into software developmen
   <img src="https://skillicons.dev/icons?i=python,mysql" />
 </p>
 
-- Python (Intermediate)
-- SQL Queries & Optimization
-- Building real-world projects
-
----
-
-## 🏗️ Engineering Background
-
-From my experience as an **ATS System Engineer**:
-
-- ✅ System Configuration & Network Planning
-- ✅ Fault Analysis & Debugging
-- ✅ Technical Documentation & Reporting
-- ✅ Multi-team Coordination in Metro Rail Projects
-- ✅ Customer-oriented Project Execution
-
+- Python fundamentals & projects
+- MySQL & database basics
+- Clean, readable code
 ---
 
 ## 💼 Projects
 
 ### 🚧 Current Work
-- New Python & SQL projects currently in progress
-- Will be updated here soon
+- Building Python + MySQL projects to strengthen my portfolio
+- Will be updated here regularly
 
 ### 💼 Featured Projects
 
@@ -81,7 +78,7 @@ From my experience as an **ATS System Engineer**:
   <tr>
     <td width="50%" valign="top">
       <h3>🔢 Prime Checker</h3>
-      <p>A Python program that checks whether a given number is prime using trial division. Handles edge cases cleanly with optimized logic.</p>
+      <p>A Python program that checks whether a given number is prime using trial division. Handles edge cases like negatives and even numbers. My first step into programming.</p>
       <a href="https://github.com/siddharth651/prime-checker">
         <img src="https://img.shields.io/badge/View_Project-0077B5?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
@@ -90,7 +87,7 @@ From my experience as an **ATS System Engineer**:
     </td>
     <td width="50%" valign="top">
       <h3>🚀 More Coming Soon</h3>
-      <p>Working on Python and SQL projects. Will be added here soon.</p>
+      <p>Working on Python + MySQL projects. Each project will reflect a new concept learned. Stay tuned.</p>
       <br/>
       <img src="https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat" />
     </td>
@@ -112,21 +109,24 @@ From my experience as an **ATS System Engineer**:
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=Python+%E2%80%A2+SQL+%E2%80%A2+Git+%E2%80%A2+System+Engineering" alt="Languages Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=Python+%E2%80%A2+MySQL+%E2%80%A2+Git+%E2%80%A2+GitHub+%E2%80%A2+VS+Code" alt="Languages Animation" />
 </p>
 
 ---
 
 ## 🌐 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-siddharth651-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/siddharth651)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
+&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/)
+&nbsp;&nbsp;
 
 ---
 
-## ⚡ Developer Focus
+## ⚡ Focus Areas
 
-- 🐍 Python Development
-- 🗄️ SQL & Data Handling
-- 🏗️ Applying Engineering Background to Software
-- 📄 Clean Documentation & Code Practices
-- 🔨 Building Projects to Strengthen Skills
+- Python Fundamentals & Projects
+- MySQL & Database Basics
+- Writing Clean & Readable Code
+- Building a Strong Portfolio
+- Transitioning into Software

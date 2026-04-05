@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Siddharth</h1>
-<h3 align="center">Junior Engineer | Python | SQL | System Engineering</h3>
+<h3 align="center">Junior Engineer | Python | SQL </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=FFFF00&center=true&vCenter=true&random=false&width=900&height=70&lines=Python+%7C+SQL+%7C+System+Engineering;Fault+Analysis+%7C+Technical+Documentation;Building+Real+Projects+Every+Day+💻;Always+Keep+Learning+🚀" alt="Typing SVG" />

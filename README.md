@@ -2,7 +2,7 @@
 <h3 align="center">Engineer Transitioning into Software | Python & MySQL </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=FFFF00&center=true&vCenter=true&random=false&width=900&height=70&lines=Engineer+Turning+Into+a+Developer;Learning+Python+%26+MySQL+Every+Day;Building+Projects+From+Scratch;One+Commit+At+A+Time+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=9929EA&center=true&vCenter=true&random=false&width=900&height=70&lines=Engineer+Turning+Into+a+Developer;Learning+Python+%26+MySQL+Every+Day;Building+Projects+From+Scratch;One+Commit+At+A+Time+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---

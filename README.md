@@ -1,118 +1,56 @@
-<h1 align="center">Hi 👋, I'm Yash Shrivastav</h1>
-<h3 align="center">Backend Developer | Java | Spring Boot | REST APIs | SQL | DevOps</h3>
+<h1 align="center">Hi 👋, I'm Siddharth</h1>
+<h3 align="center">Python Developer | DSA Learner | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=FFFF00&center=true&vCenter=true&random=false&width=900&height=70&lines=Scalable+Backend+Systems;Clean+REST+API+Development;SQL+%26+Database+Optimization;Practicing+DSA+Daily" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=FFFF00&center=true&vCenter=true&random=false&width=900&height=70&lines=Learning+Python+Every+Day+🐍;Building+Projects+From+Scratch+🔨;Solving+Problems+One+At+A+Time+🧠;Always+Keep+Coding+💻" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 💫 About Me
 
-Backend Developer focused on building scalable Java applications using the Spring ecosystem.
+Python Developer focused on building small, practical projects while sharpening problem-solving skills.
 
-Experienced in REST API development, authentication, database design, SQL optimization, testing, and backend project architecture.
-
-I also practice DSA daily to sharpen problem-solving, logic building, and coding efficiency.
+I practice DSA daily to improve logic building, coding efficiency, and problem-solving approach.
 
 ---
 
 ## 🚀 Tech Stack
 
-### 🧠 Backend Development
+### 🐍 Language
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,maven" />
+  <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
-- Java 8 & Java 11  
-- Spring Core  
-- Spring MVC  
-- Spring ORM  
-- Spring Boot  
-- Spring Data JPA  
-- Spring Security  
-- Hibernate  
-- REST APIs
-- Mircoservices
-
----
-
-### 🗄️ Database
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-- MySQL  
-- SQL  
-- PL/SQL  
-- SQL Optimization  
-
----
-
-### 🌐 Frontend (Basic)
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
-</p>
-
-- HTML  
-- CSS  
-- JavaScript  
-- React.js  
-
----
-
-### ⚙️ DevOps & Cloud
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,jenkins,docker,linux" />
-</p>
-
-- AWS  
-- Jenkins  
-- CI/CD Pipelines  
-- Linux  
-- Basic Shell Scripting  
-- Docker  
+- Python 3
 
 ---
 
 ### 🛠️ Tools & Workflow
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,idea,postman,maven,git,github" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github" />
 </p>
 
-- VS Code  
-- IntelliJ IDEA  
-- Postman  
-- Maven  
-- Git  
-- GitHub  
+- VS Code
+- Git
+- GitHub
 
 ---
 
-### 📩 Messaging & Caching
+### 🌱 Currently Learning
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=kafka,redis" />
+  <img src="https://skillicons.dev/icons?i=python,linux" />
 </p>
 
-- Apache Kafka  
-- Redis  
-
----
-
-### ✅ Testing
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java" />
-</p>
-
-- JUnit  
-- Mockito  
-- Test Coverage: **80%+**
+- Data Structures & Algorithms
+- Clean Code Practices
+- Problem Solving
 
 ---
 
 ## 🧩 Problem Solving
- 
-- Strong knowledge of **Data Structures and Algorithms**
+
+- Strong focus on **logic building** and **algorithmic thinking**
 - Practicing **DSA daily** to improve:
   - problem-solving approach
   - coding efficiency
@@ -124,57 +62,27 @@ I also practice DSA daily to sharpen problem-solving, logic building, and coding
 ## 💼 Projects
 
 ### 🚧 Current Work
-- A new backend-focused project is currently in progress  
+- New Python projects are currently in progress
 - Will be updated here soon
 
-## 💼 Featured Projects
+### 💼 Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏥 Hospital Management System - Spring Boot</h3>
-      <p>Developed a Hospital Management REST API using Spring Boot, JPA, MySQL, DTOs, and Spring Security to manage doctors, patients, appointments, and backend workflows.</p>
-      <a href="https://github.com/Shrivastav0yash/Spring-JPA-Hospital-Management-App">
+      <h3>🔢 Prime Checker</h3>
+      <p>A Python program that checks whether a given number is prime using trial division. Handles edge cases like negatives and even numbers.</p>
+      <a href="https://github.com/siddharth651/prime-checker">
         <img src="https://img.shields.io/badge/View_Project-0077B5?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
       <br/><br/>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
     </td>
     <td width="50%" valign="top">
-      <h3>📓 Journal App - Spring Boot</h3>
-      <p>Production-ready Journal APP using Spring Boot 3, Java 21, Spring Data JPA, and MySQL. Implements clean layered architecture with RESTful design principles.</p>
-      <a href="https://github.com/Shrivastav0yash/Spring-boot-Journal-App">
-        <img src="https://img.shields.io/badge/View_Project-0077B5?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Java_21-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat&logo=spring-boot&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>⚔️ DSA Practice — Java</h3>
-      <p>Topic-wise DSA repository with optimized solutions in Java. Covers Arrays, Sliding Window, HashMap, and more — updated daily as part of consistent interview prep.</p>
-      <a href="https://github.com/Shrivastav0yash/Dsa-Questions-JAVA">
-        <img src="https://img.shields.io/badge/View_Project-0077B5?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
-      <img src="https://img.shields.io/badge/DSA-005571?style=flat&logo=leetcode&logoColor=white"/>
-    </td>
-    <td width="50%" valign="top">
-      <h3>💪 Fit Forever</h3>
-      <p>Full-stack fitness web application with structured workout routines across multiple muscle groups. Responsive UI built with Bootstrap and interactive JS features.</p>
-      <a href="https://github.com/Shrivastav0yash/Fit-Forever.github.io">
-        <img src="https://img.shields.io/badge/View_Project-0077B5?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+      <h3>🚀 More Coming Soon</h3>
+      <p>Currently working on new Python projects. Will be updated here soon.</p>
+      <br/>
+      <img src="https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat" />
     </td>
   </tr>
 </table>
@@ -182,39 +90,34 @@ I also practice DSA daily to sharpen problem-solving, logic building, and coding
 ---
 
 ## 📊 GitHub Stats
- 
+
 <div align="center">
- 
-<img src="https://streak-stats.demolab.com?user=Shrivastav0yash&theme=tokyonight&hide_border=true" height="150"/>
- 
+
+<img src="https://streak-stats.demolab.com?user=siddharth651&theme=tokyonight&hide_border=true" height="150"/>
+
 <br/>
- 
+
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shrivastav0yash&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="95%"/>
- 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=siddharth651&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="95%"/>
+
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=Java+%E2%80%A2+SQL+%E2%80%A2+JavaScript+%E2%80%A2+HTML+%E2%80%A2+CSS" alt="Languages Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=Python+%E2%80%A2+DSA+%E2%80%A2+Git+%E2%80%A2+Problem+Solving" alt="Languages Animation" />
 </p>
 
 ---
 
 ## 🌐 Connect With Me
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashshrivastav8979@gmail.com)
-&nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-shrivastav-286b96200/)
-&nbsp;&nbsp;
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Thunderbolt021/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/siddharth651)
 
 ---
 
 ## ⚡ Developer Focus
 
-- Scalable Backend Development  
-- Java & Spring Ecosystem  
-- Secure REST API Design  
-- SQL & Performance Optimization  
-- Testing & Maintainable Code  
+- Python Fundamentals
+- Writing Clean & Readable Code
 - DSA & Problem Solving
+- Building Real-World Projects
+- Open Source Contributions
